@@ -1,9 +1,1 @@
-build/
-*.o
-*.exe
-*.out
-*.log
-.vscode/
-.idea/
-CMakeFiles/
-CMakeCache.txt
+
